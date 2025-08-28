@@ -1,0 +1,17 @@
+/* Contoh CSS, silakan tambahkan style sesuai kebutuhan */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.header {
+    background: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
